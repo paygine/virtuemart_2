@@ -6,7 +6,7 @@ defined('_JEXEC') or die('Restricted access');
  *
  * Paygine payment plugin for VirtueMart 2
  *
- * http://www.paygine.net
+ * http://www.paygine.ru
  *
  */
 
